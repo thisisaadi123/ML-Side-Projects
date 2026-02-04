@@ -1,5 +1,5 @@
 # ML-Side-Projects
-This is all the projects I built in my A2Z ML Course on Udemy.
+All my ML side projects
 
 ## Contents
 1. Data preprocessing for a small dataset
