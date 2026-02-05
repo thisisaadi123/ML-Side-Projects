@@ -5,3 +5,4 @@ All my ML side projects
 1. Data preprocessing for a small dataset
 2. Simple Linear Regression between 2 variables (1 dependent and 1 independent) to predict Salary given years of experience of an employee
 3. Multiple Linear Regression to predict Profits for a startup given its R&D Spend, Administration Costs, Marketing Spend, State (New York/California/Florida) trained on 50 datapoints
+4. Polynomial Linear Regression to predict Salary Expectations of a new joining employee given their field/position of work
